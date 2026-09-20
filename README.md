@@ -1,13 +1,4 @@
-
-
-```markdown
 # Asynchronous E-Learning Management System (LMS) API
-
-[![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Fapix](https://img.shields.io/badge/Fapix-Toolkit-007ACC?logo=pypi&logoColor=white)](https://pypi.org/project/fapix/)
-[![Database](https://img.shields.io/badge/Database-SQLite%20%2F%20PostgreSQL-4169E1?logo=postgresql&logoColor=white)](https://www.tortoise.org/)
-[![Testing](https://img.shields.io/badge/Tests-Pytest--Asyncio-green?logo=pytest&logoColor=white)](https://docs.pytest.org/)
 
 A high-performance, asynchronous REST and WebSocket backend for an E-Learning Management System built using **FastAPI** and **Fapix**.
 
@@ -40,7 +31,7 @@ This application implements strict Role-Based Access Control (RBAC), multi-room 
 | :--- | :--- |
 | **Python 3.11+** | Core runtime environment |
 | **FastAPI** | Modern, high-performance web framework |
-| **Fapix** | Open-source asynchronous FastAPI toolkit for scaffolding ,viewsets, websockets, authentication |
+| **Fapix** | Open-source asynchronous FastAPI toolkit for scaffolding, viewsets, websockets, authentication |
 | **Tortoise ORM** | Async ORM built on top of asyncio |
 | **Pydantic v2** | Data validation and schema enforcement |
 | **Pytest & Pytest-Asyncio** | Asynchronous test execution framework |
@@ -58,8 +49,6 @@ This application implements strict Role-Based Access Control (RBAC), multi-room 
 ```bash
 git clone [https://github.com/devHashim111/E-learning-System.git](https://github.com/devHashim111/E-learning-System.git)
 cd E-learning-System
-
-```
 
 ### 2. Set Up Virtual Environment
 
